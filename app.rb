@@ -11,6 +11,10 @@ class App < Sinatra::Base
     erb :index
   end
 
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 889d8a92321bf034fb98705581a486629982a1c4
 
 end
